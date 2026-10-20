@@ -2,7 +2,7 @@
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=180&section=header&text=Thais%20Marin&fontSize=44&fontColor=ffffff"
-  alt="Banner com o nome Thais Marin"
+  alt="Banner com o nome Bem vindo ao meu GitHub"
   width="100%"
 />
 
