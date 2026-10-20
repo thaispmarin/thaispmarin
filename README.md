@@ -1,78 +1,128 @@
 <div align="center">
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=180&section=header&text=Thais%20Marin&fontSize=44&fontColor=ffffff"
+  alt="Banner com o nome Thais Marin"
+  width="100%"
+/>
+
 # Olá, eu sou a Thais! 👋
 
-### 💻 Desenvolvimento Web • Programação • Aprendizado contínuo
+**Desenvolvimento Web · Tecnologia · Matemática · Educação**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=125&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=27&fontColor=ffffff&animation=fadeIn" alt="Banner de boas-vindas" width="100%" />
+Construindo soluções e transformando aprendizado em projetos.
 
-[![Perfil no GitHub](https://img.shields.io/badge/GitHub-thaispmarin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaispmarin)
-![Foco em desenvolvimento](https://img.shields.io/badge/Foco-Desenvolvimento%20Web-2563EB?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-thaispmarin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaispmarin)
+![Foco](https://img.shields.io/badge/Foco-Desenvolvimento_Web-2563EB?style=for-the-badge)
+![Aprendizado](https://img.shields.io/badge/Aprendizado-Contínuo-8B5CF6?style=for-the-badge)
 
 </div>
 
 ## ✨ Sobre mim
 
-Sou **Thais Marin**, formada em **Técnico em Desenvolvimento de Sistemas pela IFSULDEMINAS** e **licencianda em Matemática pela UFOP** durante minha formação técnica, adquiri conhecimentos em programação, modelagem e manutenção de bancos de dados, testes e documentação de sistemas, além de fundamentos de análise de dados.
+Sou **Thais Marin**, técnica em **Desenvolvimento de Sistemas pelo IFSULDEMINAS** e **licencianda em Matemática pela UFOP**.
 
-Tenho interesse em desenvolver soluções digitais que facilitem tarefas do dia a dia e explorar a conexão entre tecnologia, matemática e educação. Neste perfil, compartilho meus projetos e minha evolução na área de desenvolvimento.
+Durante minha formação técnica, desenvolvi conhecimentos em programação, modelagem e manutenção de bancos de dados, testes e documentação de sistemas, além de fundamentos de análise de dados.
 
--  🌱 Conhecimentos em HTML, CSS, JavaScript, React, Node.js, Java, PHP, C++ e SQL.
--  🧩 Formação com prática em desenvolvimento de sistemas, bancos de dados, testes e documentação.
--  🚀 Construindo meu portfólio e aprofundando meus conhecimentos por meio de projetos.
--  🎯 Objetivo: evoluir como desenvolvedora e criar soluções úteis e bem estruturadas.
+Tenho interesse em criar soluções digitais que facilitem tarefas do dia a dia e explorar as conexões entre **tecnologia, matemática e educação**. Aqui, compartilho meus estudos, projetos e minha evolução como desenvolvedora.
+
+- 💻 Conhecimentos em desenvolvimento web e programação.
+- 🗄️ Formação com prática em bancos de dados, testes e documentação.
+- 🌱 Aprofundando conhecimentos por meio de estudos e projetos.
+- 🎯 Buscando criar soluções úteis, organizadas e bem estruturadas.
 
 ## 🛠️ Tecnologias que estudo e utilizo
 
-<div align="center">
+### Front-end
 
-<img alt="HTML5" title="HTML5" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-<img alt="CSS3" title="CSS3" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-<img alt="JavaScript" title="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-<img alt="Java" title="Java" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
-<img alt="PHP" title="PHP" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;
-<img alt="SQL (conceitos de banco de dados)" title="SQL" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
 
-**HTML5 · CSS3 · JavaScript · Java · PHP · SQL**
+### Back-end e programação
 
-<sub>O ícone MySQL representa uma tecnologia de banco de dados relacionada ao SQL; não indica experiência específica com MySQL.</sub>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
-</div>
+### Bancos de dados
 
-## 📌 Projetos em destaque
+<p>
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge" alt="SQL" />
+</p>
 
-Estou organizando meus projetos para compartilhar aqui. Em breve, esta seção terá links para repositórios, demonstrações e descrições do que desenvolvi.
+Modelagem de dados, consultas SQL e manutenção de bancos de dados.
 
-| Projeto | Descrição | Link |
-|:--|:--|:--|
-| 🚧 Projeto 01 | Meu próximo projeto de desenvolvimento web | Em breve |
-| 🚧 Projeto 02 | Exercícios e estudos de programação | Em breve |
-| 🚧 Projeto 03 | Práticas com banco de dados e SQL | Em breve |
+## 🚀 Projetos e aprendizado
 
-## 📊 Minha atividade no GitHub
+Estou organizando meu portfólio para apresentar os projetos desenvolvidos durante minha formação e meus estudos.
 
-<div align="center">
+Meus interesses incluem:
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thaispmarin&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Thais" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaispmarin&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens nos repositórios públicos de Thais" />
+- **Desenvolvimento web:** criação de interfaces e aplicações.
+- **Programação:** lógica, resolução de problemas e organização de código.
+- **Bancos de dados:** modelagem, consultas e integração com sistemas.
+- **Tecnologia na educação:** aplicações que apoiem o ensino e a aprendizagem.
 
-<sub>Os cartões acima são gerados por um serviço externo e podem ficar temporariamente indisponíveis. As linguagens exibidas dependem dos repositórios publicados.</sub>
+[**Explorar meus repositórios →**](https://github.com/thaispmarin?tab=repositories)
 
-</div>
+<!--
+Quando os projetos estiverem publicados, adicione os links reais:
+
+### Nome do projeto
+
+Descrição breve do problema que o projeto resolve.
+
+**Tecnologias:** HTML, CSS e JavaScript.
+
+[Repositório](URL_DO_REPOSITORIO) · [Demonstração](URL_DA_DEMONSTRACAO)
+-->
+
+## 📊 Atividade no GitHub
+
+<p align="center">
+  <a href="https://github.com/thaispmarin">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=thaispmarin&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+      alt="Estatísticas dos repositórios e da atividade pública de Thais no GitHub"
+      width="400"
+    />
+  </a>
+  <a href="https://github.com/thaispmarin?tab=repositories">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaispmarin&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
+      alt="Distribuição das linguagens nos repositórios públicos de Thais"
+      width="340"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    As linguagens refletem o código dos repositórios públicos, não o nível de domínio.
+    Os cartões dependem da disponibilidade de um serviço externo.
+  </sub>
+</p>
 
 ## 🤝 Vamos nos conectar?
 
-Você pode acompanhar meus projetos e minha evolução por aqui:
+Acompanhe meus projetos, estudos e próximos passos por aqui:
 
-[![GitHub](https://img.shields.io/badge/Meu%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaispmarin)
+[![Acompanhe no GitHub](https://img.shields.io/badge/Acompanhe_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaispmarin)
 
-<!-- Quando quiser, adicione aqui seu LinkedIn, e-mail profissional ou portfólio. -->
+<!-- Adicione seu LinkedIn, e-mail profissional ou portfólio quando desejar. -->
 
 ---
 
 <div align="center">
 
-💙 **Obrigada pela visita!**
+**Obrigada pela visita! 💙**
 
 *Aprendendo, criando e evoluindo a cada projeto.*
 
