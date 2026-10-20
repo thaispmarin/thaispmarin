@@ -17,10 +17,10 @@ Sou **Thais Marin**, formada em **Técnico em Desenvolvimento de Sistemas pela I
 
 Tenho interesse em desenvolver soluções digitais que facilitem tarefas do dia a dia e explorar a conexão entre tecnologia, matemática e educação. Neste perfil, compartilho meus projetos e minha evolução na área de desenvolvimento.
 
--🌱 Conhecimentos em HTML, CSS, JavaScript, React, Node.js, Java, PHP, C++ e SQL.
--🧩 Formação com prática em desenvolvimento de sistemas, bancos de dados, testes e documentação.
--🚀 Construindo meu portfólio e aprofundando meus conhecimentos por meio de projetos.
--🎯 Objetivo: evoluir como desenvolvedora e criar soluções úteis e bem estruturadas.
+🌱 Conhecimentos em HTML, CSS, JavaScript, React, Node.js, Java, PHP, C++ e SQL.
+🧩 Formação com prática em desenvolvimento de sistemas, bancos de dados, testes e documentação.
+🚀 Construindo meu portfólio e aprofundando meus conhecimentos por meio de projetos.
+🎯 Objetivo: evoluir como desenvolvedora e criar soluções úteis e bem estruturadas.
 
 ## 🛠️ Tecnologias que estudo e utilizo
 
