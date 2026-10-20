@@ -15,10 +15,10 @@
 
 Sou **Thais Marin**, interessada em programação e desenvolvimento de soluções digitais. Este perfil é meu espaço para compartilhar projetos, praticar tecnologias e acompanhar minha evolução na área de desenvolvimento.
 
-- 🌱 Aprendendo e aprimorando conhecimentos em **HTML, CSS, JavaScript, Java, PHP e SQL**.
-- 🧩 Explorando desenvolvimento web, lógica de programação e bancos de dados.
-- 🚀 Construindo meu portfólio, um projeto de cada vez.
-- 🎯 Objetivo: evoluir como desenvolvedora e criar soluções úteis e bem estruturadas.
+-  🌱 Aprendendo e aprimorando conhecimentos em **HTML, CSS, JavaScript, Java, PHP e SQL**.
+-  🧩 Explorando desenvolvimento web, lógica de programação e bancos de dados.
+-  🚀 Construindo meu portfólio, um projeto de cada vez.
+-  🎯 Objetivo: evoluir como desenvolvedora e criar soluções úteis e bem estruturadas.
 
 ## 🛠️ Tecnologias que estudo e utilizo
 
