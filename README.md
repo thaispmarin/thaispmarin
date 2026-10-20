@@ -13,12 +13,14 @@
 
 ## ✨ Sobre mim
 
-Sou **Thais Marin**, formada em **Técnico em Desenvolvimento de Sistemas pela IFSULDEMINAS** interessada em programação e desenvolvimento de soluções digitais. Este perfil é meu espaço para compartilhar projetos, praticar tecnologias e acompanhar minha evolução na área de desenvolvimento.
+Sou **Thais Marin**, formada em **Técnico em Desenvolvimento de Sistemas pela IFSULDEMINAS** e **licencianda em Matemática pela UFOP** durante minha formação técnica, adquiri conhecimentos em programação, modelagem e manutenção de bancos de dados, testes e documentação de sistemas, além de fundamentos de análise de dados.
 
-- 🌱 Aprendendo e aprimorando conhecimentos em **HTML, CSS, JavaScript, Java, PHP e SQL**.
-- 🧩 Explorando desenvolvimento web, lógica de programação e bancos de dados.
-- 🚀 Construindo meu portfólio, um projeto de cada vez.
-- 🎯 Objetivo: evoluir como desenvolvedora e criar soluções úteis e bem estruturadas.
+Tenho interesse em desenvolver soluções digitais que facilitem tarefas do dia a dia e explorar a conexão entre tecnologia, matemática e educação. Neste perfil, compartilho meus projetos e minha evolução na área de desenvolvimento.
+
+-🌱 Conhecimentos em HTML, CSS, JavaScript, React, Node.js, Java, PHP, C++ e SQL.
+-🧩 Formação com prática em desenvolvimento de sistemas, bancos de dados, testes e documentação.
+-🚀 Construindo meu portfólio e aprofundando meus conhecimentos por meio de projetos.
+-🎯 Objetivo: evoluir como desenvolvedora e criar soluções úteis e bem estruturadas.
 
 ## 🛠️ Tecnologias que estudo e utilizo
 
