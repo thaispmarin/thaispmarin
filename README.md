@@ -77,31 +77,6 @@ Descrição breve do problema que o projeto resolve.
 [Repositório](URL_DO_REPOSITORIO) · [Demonstração](URL_DA_DEMONSTRACAO)
 -->
 
-## 📊 Atividade no GitHub
-
-<p align="center">
-  <a href="https://github.com/thaispmarin">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=thaispmarin&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
-      alt="Estatísticas dos repositórios e da atividade pública de Thais no GitHub"
-      width="400"
-    />
-  </a>
-  <a href="https://github.com/thaispmarin?tab=repositories">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaispmarin&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
-      alt="Distribuição das linguagens nos repositórios públicos de Thais"
-      width="340"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    As linguagens refletem o código dos repositórios públicos, não o nível de domínio.
-    Os cartões dependem da disponibilidade de um serviço externo.
-  </sub>
-</p>
 
 ## 🤝 Vamos nos conectar?
 
