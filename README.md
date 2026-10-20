@@ -1,20 +1,13 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=180&section=header&text=Thais%20Marin&fontSize=44&fontColor=ffffff"
-  alt="Banner com o nome Bem vindo ao meu GitHub"
-  width="100%"
-/>
-
 # Olá, eu sou a Thais! 👋
 
-**Desenvolvimento Web · Tecnologia · Matemática · Educação**
+### 💻 Desenvolvimento Web • Programação • Aprendizado contínuo
 
-Construindo soluções e transformando aprendizado em projetos.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=125&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=27&fontColor=ffffff&animation=fadeIn" alt="Banner de boas-vindas" width="100%" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-thaispmarin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaispmarin)
-![Foco](https://img.shields.io/badge/Foco-Desenvolvimento_Web-2563EB?style=for-the-badge)
-![Aprendizado](https://img.shields.io/badge/Aprendizado-Contínuo-8B5CF6?style=for-the-badge)
+[![Perfil no GitHub](https://img.shields.io/badge/GitHub-thaispmarin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaispmarin)
+![Foco em desenvolvimento](https://img.shields.io/badge/Foco-Desenvolvimento%20Web-2563EB?style=for-the-badge)
 
 </div>
 
