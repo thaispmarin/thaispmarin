@@ -13,7 +13,7 @@
 
 ## ✨ Sobre mim
 
-Sou **Thais Marin**, interessada em programação e desenvolvimento de soluções digitais. Este perfil é meu espaço para compartilhar projetos, praticar tecnologias e acompanhar minha evolução na área de desenvolvimento.
+Sou **Thais Marin**, formada em **Técnico em Desenvolvimento pela IFSULDEMINAS** interessada em programação e desenvolvimento de soluções digitais. Este perfil é meu espaço para compartilhar projetos, praticar tecnologias e acompanhar minha evolução na área de desenvolvimento.
 
 - 🌱 Aprendendo e aprimorando conhecimentos em **HTML, CSS, JavaScript, Java, PHP e SQL**.
 - 🧩 Explorando desenvolvimento web, lógica de programação e bancos de dados.
